@@ -27,7 +27,5 @@ git log
 #### going back to a commit
 git checkout "commiy-hash"
 
-ghghjghj hgjhgj 
-
 
 
