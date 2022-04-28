@@ -21,4 +21,13 @@ git add .
 #### making commits
 git commit -m "Commit message"
 
+#### showing all the commits and other
+git log
+
+#### going back to a commit
+git checkout "commiy-hash"
+
+ghghjghj hgjhgj 
+
+
 
