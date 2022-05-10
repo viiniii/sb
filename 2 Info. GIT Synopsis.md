@@ -45,4 +45,14 @@ git branch -d 'branch-name'
  #### generating a key locally using the SSH key Gen  command
 ssh-keygen -t rsa -b 4096 -C "email@example.com"
 
+#### showing remote servers you have configured
+git remote -v
+
+# Getting Git on a Server
+https://git-scm.com/book/it/v2/Git-on-the-Server-Getting-Git-on-a-Server#r_git_on_the_server
+
+git clone --bare my_project my_project.git
+
+
+pscp id_rsa.pub ubuntu@141.144.247.167:/home/ubuntu
 
