@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 Info. GIT Synopsis.md",
-            "mode": "source",
-            "source": false
+            "file": "5 For video. General information about git and github.md",
+            "mode": "source"
           }
         }
       }
@@ -19,64 +18,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fe2579ca244f509a",
-    "type": "mobile-drawer",
+    "id": "355e3c9cd4d3b976",
+    "type": "split",
     "children": [
       {
-        "id": "12c7d1ee50b7af3d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "549572f603dc7b88",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f73a07524bbb5c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93d48607e89b5c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c8020af7e9f4375",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "push",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "be3d57ce6cd0d060",
-    "type": "mobile-drawer",
+    "id": "e59bd4dd64f3abe3",
+    "type": "split",
     "children": [
       {
-        "id": "47c2ce3fb30e09e9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "2 Info. GIT Synopsis.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "12f1f6f87e83a158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6514955eddb346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 For video. General information about git and github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "7ea52cf7e388b94b",
   "lastOpenFiles": [
-    "2 Info. GIT Synopsis.md",
+    "5 For video. General information about git and github.md",
+    "1. todo.md",
     "4 Info. Adding your SSH key to the ssh-agent.md",
-    "3 Assumption. About how the brain works.md",
-    "1. todo.md"
+    "Pasted image 20220510233407.png",
+    "2 Info. GIT Synopsis.md",
+    "3 Assumption. About how the brain works.md"
   ]
 }
