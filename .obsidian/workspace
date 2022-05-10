@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 Info. Adding your SSH key to the ssh-agent.md",
+            "file": "2 Info. GIT Synopsis.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Info. Adding your SSH key to the ssh-agent.md",
+                "file": "2 Info. GIT Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +89,9 @@
   },
   "active": "7ea52cf7e388b94b",
   "lastOpenFiles": [
-    "4 Info. Adding your SSH key to the ssh-agent.md",
     "2 Info. GIT Synopsis.md",
-    "1. todo.md",
-    "3 Assumption. About how the brain works.md"
+    "3 Assumption. About how the brain works.md",
+    "4 Info. Adding your SSH key to the ssh-agent.md",
+    "1. todo.md"
   ]
 }

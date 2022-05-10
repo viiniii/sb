@@ -55,6 +55,11 @@ git remote add origin git@github.com:viiniii/romb.git
 To push the current branch and set the remote as upstream, use:
 git push --set-upstream origin master
 
+Change remote origin:
+```
+git remote set-url origin git@github.com:viiniii/sb.git
+```
+
 # Getting Git on a Server
 https://git-scm.com/book/it/v2/Git-on-the-Server-Getting-Git-on-a-Server#r_git_on_the_server
 
