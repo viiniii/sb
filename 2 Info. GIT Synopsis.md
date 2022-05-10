@@ -69,3 +69,5 @@ git clone --bare my_project my_project.git
 
 pscp id_rsa.pub ubuntu@141.144.247.167:/home/ubuntu
 
+![[4 Info. Adding your SSH key to the ssh-agent]]
+
