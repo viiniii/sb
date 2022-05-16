@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "6 For video. I break down the Understand How The World Works task into subtasks.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,73 +19,58 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "355e3c9cd4d3b976",
-    "type": "split",
+    "id": "a10f8cbc5b644530",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f73a07524bbb5c82",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e93d48607e89b5c3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c8020af7e9f4375",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "push",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "66510565a6d89726",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f1e46a07f3b61f24",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e59bd4dd64f3abe3",
-    "type": "split",
+    "id": "218342186b505d35",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "12f1f6f87e83a158",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f6514955eddb346",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "6 For video. I break down the Understand How The World Works task into subtasks.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "ac4d178348286eed",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "6 For video. I break down the Understand How The World Works task into subtasks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "7ea52cf7e388b94b",
   "lastOpenFiles": [
