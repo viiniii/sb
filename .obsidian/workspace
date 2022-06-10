@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6 For video. Splitting the main task into subtasks..md",
-            "mode": "preview"
+            "file": "8 For video. Everything I've heard about the brain.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "file: Assumption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 For video. Splitting the main task into subtasks..md",
+                "file": "8 For video. Everything I've heard about the brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,14 @@
   },
   "active": "7ea52cf7e388b94b",
   "lastOpenFiles": [
-    "6 For video. Splitting the main task into subtasks..md",
-    "1. todo.md",
-    "6 For video. I explain what Understand How The World Works means.md",
-    "5 For video. General information about git and github.md",
-    "4 Info. Adding your SSH key to the ssh-agent.md",
+    "8 For video. Everything I've heard about the brain.md",
+    "7 Assumption. Bad and good signals.md",
     "3 Assumption. About how the brain works.md",
+    "6 For video. Splitting the main task into subtasks. Increasing efficiency of brain's thought processes.md",
+    "1. todo.md",
+    "5 For video. General information about git and github.md",
+    "6 For video. I explain what Understand How The World Works means.md",
+    "4 Info. Adding your SSH key to the ssh-agent.md",
     "2 Info. GIT Synopsis.md",
     "Pasted image 20220510233407.png"
   ]
