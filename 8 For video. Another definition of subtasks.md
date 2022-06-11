@@ -1,0 +1,4 @@
+In the last video, I said that I would determine what knowledge I have about the brain. However, now I feel that it is better to determine in more detail which specific brain functions would be most preferable to improve.
+
+1. It would be cool not to forget what needs to be remembered. For example, you need to make a feeder. You find some instruction on the Internet and in detail remember the feeder's shape and dimensions from the first time and then get access to this information in an instant only by the power of thought. This way you save a lot of time without having to constantly return to the instructions.
+2. 
