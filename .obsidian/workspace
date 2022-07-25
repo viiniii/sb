@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 Info. GIT Synopsis.md",
+            "file": "8 For video. Another definition of subtasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Info. GIT Synopsis.md",
+                "file": "8 For video. Another definition of subtasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "7ea52cf7e388b94b",
   "lastOpenFiles": [
+    "2 Info. GIT Synopsis.md",
     "8 For video. Another definition of subtasks.md",
     "7 Assumption. Bad and good signals.md",
     "1. todo.md",
@@ -97,7 +98,6 @@
     "5 For video. General information about git and github.md",
     "6 For video. I explain what Understand How The World Works means.md",
     "4 Info. Adding your SSH key to the ssh-agent.md",
-    "2 Info. GIT Synopsis.md",
     "Pasted image 20220510233407.png"
   ]
 }
